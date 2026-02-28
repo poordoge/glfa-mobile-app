@@ -2,6 +2,14 @@
 import "./scripts/load-env.js";
 import type { ExpoConfig } from "expo/config";
 
+interface ExpoConfigWithExtra extends ExpoConfig {
+  extra?: {
+    eas?: {
+      projectId: string;
+    };
+  };
+}
+
 // Bundle ID format: space.manus.<project_name_dots>.<timestamp>
 // e.g., "my-app" created at 2024-01-15 10:30:45 -> "space.manus.my.app.t20240115103045"
 // Bundle ID can only contain letters, numbers, and dots
@@ -47,6 +55,11 @@ const config: ExpoConfig = {
   scheme: env.scheme,
   userInterfaceStyle: "automatic",
   newArchEnabled: true,
+  extra: {
+    eas: {
+      projectId: "ae02eb76-0660-47f1-b59c-69125214bb0e",
+    },
+  },
   ios: {
     supportsTablet: true,
     bundleIdentifier: env.iosBundleId,
