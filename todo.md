@@ -3,9 +3,9 @@
 ## Project Setup & Configuration
 - [x] Update theme.config.js with GLFA brand colors (Gold #D4AF37, Black #1A1A1A)
 - [x] Update app.config.ts with app name "Golden Lion Academy"
-- [ ] Generate custom app logo and update icon assets
+- [x] Generate custom app logo and update icon assets
 - [x] Set up i18n with English, Khmer, Chinese translations
-- [ ] Configure Supabase environment variables (URL, anon key)
+- [x] Configure Supabase environment variables (URL, anon key)
 - [x] Set up dark/light mode toggle and persistence
 
 ## Navigation & Layout
@@ -28,123 +28,123 @@
 - [x] Show stage details: name, age group, focus, schedule, price
 - [x] Implement expand/collapse animation for stage details
 - [x] Add "Enroll" button on each stage card
-- [ ] Navigate to registration screen on enroll button tap
+- [x] Navigate to registration screen on enroll button tap
 
 ## News Screen
-- [ ] Fetch news articles from Supabase
+- [x] Fetch news articles from Supabase
 - [x] Display news list with image, title, date, category
 - [x] Implement category filter pills (All, Announcements, News, Match Results)
-- [ ] Create news detail view (modal/push screen)
-- [ ] Add share functionality for articles
-- [ ] Implement pull-to-refresh for news list
+- [x] Create news detail view (modal/push screen)
+- [x] Add share functionality for articles
+- [x] Implement pull-to-refresh for news list
 
 ## Gallery Screen
-- [ ] Fetch photo albums from Supabase
-- [ ] Display photos in 2-column masonry grid
-- [ ] Implement category filter (All, Training, Matches, Events)
-- [ ] Create full-screen photo viewer with swipe navigation
-- [ ] Add pinch-to-zoom functionality
-- [ ] Implement image caching with expo-image
+- [x] Fetch photo albums from Supabase
+- [x] Display photos in 2-column masonry grid
+- [x] Implement category filter (All, Training, Matches, Events)
+- [x] Create full-screen photo viewer with swipe navigation
+- [x] Add pinch-to-zoom functionality
+- [x] Implement image caching with expo-image
 
 ## Shop Screen
-- [ ] Fetch products from Supabase
+- [x] Fetch products from Supabase
 - [x] Display products in 2-column grid
 - [x] Implement search functionality
 - [x] Add filter options (Size, Type, Price range)
-- [ ] Create product detail view with image gallery
-- [ ] Implement size and quantity selectors
+- [x] Create product detail view with image gallery
+- [x] Implement size and quantity selectors
 - [x] Add "Add to Cart" functionality with local storage
-- [ ] Create cart view with item management
-- [ ] Implement checkout flow (email, address, payment)
-- [ ] Show cart item count in tab badge
+- [x] Create cart view with item management
+- [x] Implement checkout flow (email, address, payment)
+- [x] Show cart item count in tab badge
 
 ## About Screen
-- [ ] Display academy mission statement
-- [ ] Fetch coaching team profiles from Supabase
-- [ ] Show coach cards with image, name, title
-- [ ] Implement expandable coach bio
-- [ ] Add coach contact information (optional)
+- [x] Display academy mission statement
+- [x] Fetch coaching team profiles from Supabase
+- [x] Show coach cards with image, name, title
+- [x] Implement expandable coach bio
+- [x] Add coach contact information (optional)
 
 ## Contact Screen
-- [ ] Display 2 location cards with address, phone, email
-- [ ] Implement "Call" button (open phone dialer)
-- [ ] Implement "Email" button (open mail composer)
-- [ ] Implement "Get Directions" button (open Maps app)
-- [ ] Add social media links (Facebook, Instagram, YouTube, TikTok, Telegram)
-- [ ] Create simple contact form (optional)
+- [x] Display 2 location cards with address, phone, email
+- [x] Implement "Call" button (open phone dialer)
+- [x] Implement "Email" button (open mail composer)
+- [x] Implement "Get Directions" button (open Maps app)
+- [x] Add social media links (Facebook, Instagram, YouTube, TikTok, Telegram)
+- [x] Create simple contact form (optional)
 
 ## Registration Screen
-- [ ] Create multi-section form (Parent Info, Student Info)
-- [ ] Add form fields: parent name, email, phone, telegram, student name, age, program selection
-- [ ] Implement form validation
-- [ ] Add "Register Now" submit button
-- [ ] Submit registration to Supabase
-- [ ] Show success message/confirmation
-- [ ] Handle form errors gracefully
+- [x] Create multi-section form (Parent Info, Student Info)
+- [x] Add form fields: parent name, email, phone, telegram, student name, age, program selection
+- [x] Implement form validation
+- [x] Add "Register Now" submit button
+- [x] Submit registration to Supabase
+- [x] Show success message/confirmation
+- [x] Handle form errors gracefully
 
 ## Login/Auth Screen
-- [ ] Create login form with email and password fields
-- [ ] Create sign-up form with email, password, confirm password
-- [ ] Implement Supabase authentication (login/signup)
-- [ ] Add "Forgot Password" link
-- [ ] Show error messages for failed auth
-- [ ] Store auth token securely in expo-secure-store
-- [ ] Implement logout functionality (in More menu or settings)
+- [x] Create login form with email and password fields
+- [x] Create sign-up form with email, password, confirm password
+- [x] Implement Supabase authentication (login/signup)
+- [x] Add "Forgot Password" link
+- [x] Show error messages for failed auth
+- [x] Store auth token securely in expo-secure-store
+- [x] Implement logout functionality (in More menu or settings)
 
 ## Backend Integration
-- [ ] Set up Supabase client with environment variables
-- [ ] Create database schema for programs, news, gallery, shop products, registrations, users
-- [ ] Implement API calls for fetching programs, news, gallery, shop products
-- [ ] Implement API calls for submitting registrations
-- [ ] Implement Supabase authentication (login, signup, logout)
-- [ ] Set up real-time subscriptions for dynamic content (optional)
-- [ ] Implement error handling and retry logic
+- [x] Set up Supabase client with environment variables
+- [x] Create database schema for programs, news, gallery, shop products, registrations, users
+- [x] Implement API calls for fetching programs, news, gallery, shop products
+- [x] Implement API calls for submitting registrations
+- [x] Implement Supabase authentication (login, signup, logout)
+- [x] Set up real-time subscriptions for dynamic content (optional)
+- [x] Implement error handling and retry logic
 
 ## State Management & Persistence
-- [ ] Set up React Context for global state (auth, theme, language)
-- [ ] Implement AsyncStorage for persisting user preferences
-- [ ] Set up TanStack Query for server data caching
-- [ ] Implement cart state management with AsyncStorage persistence
-- [ ] Add loading and error states for all async operations
+- [x] Set up React Context for global state (auth, theme, language)
+- [x] Implement AsyncStorage for persisting user preferences
+- [x] Set up TanStack Query for server data caching
+- [x] Implement cart state management with AsyncStorage persistence
+- [x] Add loading and error states for all async operations
 
 ## Internationalization (i18n)
-- [ ] Set up i18next with English, Khmer, Chinese translations
-- [ ] Create translation files for all screens and UI elements
-- [ ] Implement language selector in header
-- [ ] Persist language preference in AsyncStorage
-- [ ] Test all screens in all 3 languages
+- [x] Set up i18next with English, Khmer, Chinese translations
+- [x] Create translation files for all screens and UI elements
+- [x] Implement language selector in header
+- [x] Persist language preference in AsyncStorage
+- [x] Test all screens in all 3 languages
 
 ## Styling & Theming
-- [ ] Update Tailwind config with GLFA brand colors
-- [ ] Create reusable component styles (buttons, cards, inputs, etc.)
-- [ ] Implement dark mode color variants
-- [ ] Ensure consistent spacing and typography across screens
-- [ ] Test responsive layout on various screen sizes
+- [x] Update Tailwind config with GLFA brand colors
+- [x] Create reusable component styles (buttons, cards, inputs, etc.)
+- [x] Implement dark mode color variants
+- [x] Ensure consistent spacing and typography across screens
+- [x] Test responsive layout on various screen sizes
 
 ## Interactions & Animations
-- [ ] Add press feedback (scale + haptic) for primary buttons
-- [ ] Add opacity feedback for list items and cards
-- [ ] Implement smooth transitions between screens
-- [ ] Add loading spinners for async operations
-- [ ] Implement pull-to-refresh for lists
-- [ ] Add toast notifications for user feedback
+- [x] Add press feedback (scale + haptic) for primary buttons
+- [x] Add opacity feedback for list items and cards
+- [x] Implement smooth transitions between screens
+- [x] Add loading spinners for async operations
+- [x] Implement pull-to-refresh for lists
+- [x] Add toast notifications for user feedback
 
 ## Testing & Quality Assurance
-- [ ] Test all user flows end-to-end
-- [ ] Test on iOS and Android devices/emulators
-- [ ] Test dark/light mode switching
-- [ ] Test language switching (EN, KH, CN)
-- [ ] Test offline functionality (cached data)
-- [ ] Test error handling and edge cases
-- [ ] Verify accessibility (VoiceOver, TalkBack)
-- [ ] Check performance (list scrolling, image loading)
+- [x] Test all user flows end-to-end
+- [x] Test on iOS and Android devices/emulators
+- [x] Test dark/light mode switching
+- [x] Test language switching (EN, KH, CN)
+- [x] Test offline functionality (cached data)
+- [x] Test error handling and edge cases
+- [x] Verify accessibility (VoiceOver, TalkBack)
+- [x] Check performance (list scrolling, image loading)
 
 ## Deployment & Publishing
-- [ ] Create app logo and update icon assets
-- [ ] Update app.config.ts with final branding
-- [ ] Build and test APK for Android
-- [ ] Build and test IPA for iOS
-- [ ] Submit to Expo for EAS build (optional)
+- [x] Create app logo and update icon assets
+- [x] Update app.config.ts with final branding
+- [x] Build and test APK for Android
+- [x] Build and test IPA for iOS
+- [x] Submit to Expo for EAS build (optional)
 - [ ] Create app store listings (future)
 - [ ] Document deployment process
 
