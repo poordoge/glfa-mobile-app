@@ -1,0 +1,194 @@
+{
+  "app": {
+    "name": "金狮足球学院",
+    "tagline": "从基层到伟大"
+  },
+  "tabs": {
+    "home": "首页",
+    "programs": "课程",
+    "news": "新闻",
+    "shop": "商店",
+    "more": "更多"
+  },
+  "home": {
+    "title": "金狮足球学院",
+    "subtitle": "从基层到伟大",
+    "description": "柬埔寨金边青少年足球发展的领先机构。通过勇气、领导力和团队合作培养冠军。",
+    "enrollNow": "立即注册",
+    "learnMore": "了解更多",
+    "highlights": {
+      "training": "世界级培训",
+      "coaches": "专业教练",
+      "ages": "欢迎所有年龄"
+    },
+    "featuredPrograms": "精选课程",
+    "newsHighlights": "最新新闻"
+  },
+  "programs": {
+    "title": "我们的课程",
+    "subtitle": "为每个年轻运动员提供年龄适当的培训",
+    "stage1": {
+      "name": "第一阶段：教育",
+      "ageGroup": "4-9岁",
+      "focus": "足球基础介绍，重点关注乐趣和基本技能发展。",
+      "schedule": "每周六、日上午8:00-9:00",
+      "duration": "无限制"
+    },
+    "stage2": {
+      "name": "第二阶段：基础",
+      "ageGroup": "10-12岁",
+      "focus": "建立足球核心技能，强调技术、团队合作和体育精神。",
+      "schedule": "每周六、日上午8:00-9:00",
+      "duration": "无限制"
+    },
+    "stage3": {
+      "name": "第三阶段：训练",
+      "ageGroup": "13-15岁",
+      "focus": "竞技比赛的高级训练，包括战术理解和比赛准备。",
+      "schedule": "每周六、日上午9:00-10:00",
+      "duration": "无限制"
+    },
+    "stage4": {
+      "name": "第四阶段：进阶训练",
+      "ageGroup": "16-18岁",
+      "focus": "为有才华的球员提供专业级培训和个性化发展计划。",
+      "schedule": "每周六、日上午9:00-10:00",
+      "duration": "无限制"
+    },
+    "price": "$25",
+    "enroll": "注册"
+  },
+  "news": {
+    "title": "新闻与更新",
+    "subtitle": "了解最新新闻、比赛结果和公告",
+    "categories": {
+      "all": "所有类别",
+      "announcements": "公告",
+      "news": "新闻",
+      "matchResults": "比赛结果"
+    },
+    "noNews": "暂无新闻",
+    "share": "分享",
+    "readMore": "阅读更多"
+  },
+  "gallery": {
+    "title": "照片库",
+    "subtitle": "探索训练课程、比赛和学院活动的精彩时刻",
+    "categories": {
+      "all": "所有照片",
+      "training": "训练",
+      "matches": "比赛",
+      "events": "活动"
+    },
+    "noPhotos": "暂无照片"
+  },
+  "shop": {
+    "title": "金狮商店",
+    "subtitle": "获取官方金狮足球制服和装备",
+    "search": "搜索产品...",
+    "filter": "筛选产品",
+    "size": "尺码",
+    "type": "产品类型",
+    "priceRange": "价格范围",
+    "allSizes": "所有尺码",
+    "allTypes": "所有类型",
+    "showing": "显示 {{count}} / {{total}} 件产品",
+    "addToCart": "添加到购物车",
+    "cart": "购物车",
+    "cartEmpty": "购物车为空",
+    "subtotal": "小计",
+    "tax": "税费",
+    "total": "总计",
+    "checkout": "结账",
+    "continueShopping": "继续购物",
+    "quantity": "数量",
+    "price": "价格",
+    "added": "已添加到购物车"
+  },
+  "about": {
+    "title": "关于金狮学院",
+    "mission": "金狮足球学院致力于通过世界级培训、品格建设和竞技机会来培养年轻足球运动员。我们位于金边，为柬埔寨及周边地区的家庭服务。",
+    "coachingTeam": "教练团队",
+    "coach": {
+      "title": "职位",
+      "bio": "简介"
+    }
+  },
+  "contact": {
+    "title": "联系我们",
+    "locations": "我们的位置",
+    "call": "拨打",
+    "email": "发送邮件",
+    "directions": "获取方向",
+    "location1": "主校区",
+    "location1Address": "金边普雷亚·西索瓦高中",
+    "location2": "第二校区",
+    "location2Address": "英雄体育馆（乍卡杜翁），猎莎，金边",
+    "phone": "+855 16 405 993",
+    "phone2": "+855 98 252 152",
+    "email": "goldenlionfootballschool@gmail.com",
+    "telegram": "@T_sivmey | @leangsim_3",
+    "followUs": "关注我们",
+    "contactForm": "快速联系",
+    "name": "您的名字",
+    "message": "消息",
+    "send": "发送"
+  },
+  "registration": {
+    "title": "学生注册",
+    "subtitle": "加入金狮家族，开始您的卓越之旅",
+    "parentInfo": "家长信息",
+    "parentName": "家长/监护人名字",
+    "email": "电子邮件地址",
+    "phone": "电话号码",
+    "telegram": "Telegram（可选）",
+    "studentInfo": "学生信息",
+    "studentName": "学生名字",
+    "studentAge": "学生年龄（4-18）",
+    "preferredProgram": "首选课程",
+    "selectProgram": "选择课程",
+    "additionalNotes": "附加说明（可选）",
+    "registerNow": "立即注册",
+    "success": "注册成功！",
+    "error": "注册失败。请重试。",
+    "required": "此字段为必填项"
+  },
+  "login": {
+    "title": "金狮管理员",
+    "subtitle": "登录以管理注册",
+    "loginTab": "登录",
+    "signupTab": "注册",
+    "email": "电子邮件",
+    "password": "密码",
+    "confirmPassword": "确认密码",
+    "signIn": "登录",
+    "createAccount": "创建账户",
+    "forgotPassword": "忘记密码？",
+    "noAccount": "还没有账户？",
+    "haveAccount": "已有账户？",
+    "signUp": "注册",
+    "loginError": "登录失败。请检查您的凭证。",
+    "signupError": "注册失败。请重试。",
+    "logout": "登出"
+  },
+  "common": {
+    "back": "返回",
+    "close": "关闭",
+    "save": "保存",
+    "cancel": "取消",
+    "delete": "删除",
+    "edit": "编辑",
+    "loading": "加载中...",
+    "error": "发生错误",
+    "tryAgain": "重试",
+    "noData": "暂无数据",
+    "language": "语言",
+    "darkMode": "深色模式",
+    "lightMode": "浅色模式",
+    "settings": "设置",
+    "about": "关于",
+    "contact": "联系",
+    "privacy": "隐私政策",
+    "terms": "服务条款"
+  }
+}

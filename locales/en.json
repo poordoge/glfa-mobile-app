@@ -1,0 +1,195 @@
+{
+  "app": {
+    "name": "Golden Lion Academy",
+    "tagline": "From Grassroots to Greatness"
+  },
+  "tabs": {
+    "home": "Home",
+    "programs": "Programs",
+    "news": "News",
+    "shop": "Shop",
+    "more": "More"
+  },
+  "home": {
+    "title": "Golden Lion Football Academy",
+    "subtitle": "From Grassroots to Greatness",
+    "description": "Premier youth football development in Phnom Penh, Cambodia. Building champions through courage, leadership, and teamwork.",
+    "enrollNow": "Enroll Now",
+    "learnMore": "Learn More",
+    "highlights": {
+      "training": "World-Class Training",
+      "coaches": "Expert Coaches",
+      "ages": "All Ages Welcome"
+    },
+    "featuredPrograms": "Featured Programs",
+    "newsHighlights": "Latest News"
+  },
+  "programs": {
+    "title": "Our Programs",
+    "subtitle": "Age-appropriate training for every young athlete",
+    "stage1": {
+      "name": "Stage 1: Education",
+      "ageGroup": "4-9 years",
+      "focus": "Introduction to football fundamentals and education with focus on fun and basic skills development.",
+      "schedule": "Every Saturday & Sunday 8:00 am to 9:00 am",
+      "duration": "Unlimited"
+    },
+    "stage2": {
+      "name": "Stage 2: Foundation",
+      "ageGroup": "10-12 years",
+      "focus": "Building core football skills with emphasis on technique, teamwork, and sportsmanship.",
+      "schedule": "Every Saturday & Sunday 8:00 am to 9:00 am",
+      "duration": "Unlimited"
+    },
+    "stage3": {
+      "name": "Stage 3: Training",
+      "ageGroup": "13-15 years",
+      "focus": "Advanced training for competitive play with tactical understanding and match preparation.",
+      "schedule": "Every Saturday & Sunday 9:00 am to 10:00 am",
+      "duration": "Unlimited"
+    },
+    "stage4": {
+      "name": "Stage 4: Post-training",
+      "ageGroup": "16-18 years",
+      "focus": "Professional-level training for talented players with individualized development plans.",
+      "schedule": "Every Saturday & Sunday 9:00 am to 10:00 am",
+      "duration": "Unlimited"
+    },
+    "price": "$25",
+    "enroll": "Enroll"
+  },
+  "news": {
+    "title": "News & Updates",
+    "subtitle": "Stay up to date with the latest news, match results, and announcements",
+    "categories": {
+      "all": "All Categories",
+      "announcements": "Announcements",
+      "news": "News",
+      "matchResults": "Match Results"
+    },
+    "noNews": "No news available",
+    "share": "Share",
+    "readMore": "Read More"
+  },
+  "gallery": {
+    "title": "Photo Gallery",
+    "subtitle": "Explore moments from training sessions, matches, and academy events",
+    "categories": {
+      "all": "All Photos",
+      "training": "Training",
+      "matches": "Matches",
+      "events": "Events"
+    },
+    "noPhotos": "No photos available"
+  },
+  "shop": {
+    "title": "Golden Lion Shop",
+    "subtitle": "Get your official Golden Lion football uniforms and gear",
+    "search": "Search products...",
+    "filter": "Filter Products",
+    "size": "Size",
+    "type": "Product Type",
+    "priceRange": "Price Range",
+    "allSizes": "All Sizes",
+    "allTypes": "All Types",
+    "showing": "Showing {{count}} of {{total}} products",
+    "addToCart": "Add to Cart",
+    "cart": "Cart",
+    "cartEmpty": "Your cart is empty",
+    "subtotal": "Subtotal",
+    "tax": "Tax",
+    "total": "Total",
+    "checkout": "Checkout",
+    "continueShopping": "Continue Shopping",
+    "quantity": "Quantity",
+    "size": "Size",
+    "price": "Price",
+    "added": "Added to cart"
+  },
+  "about": {
+    "title": "About GLFA",
+    "mission": "Golden Lion Football Academy is dedicated to developing young footballers through world-class training, character building, and competitive opportunities. Located in Phnom Penh, we serve families across Cambodia and the region.",
+    "coachingTeam": "Our Coaching Team",
+    "coach": {
+      "title": "Title",
+      "bio": "Bio"
+    }
+  },
+  "contact": {
+    "title": "Contact Us",
+    "locations": "Our Locations",
+    "call": "Call",
+    "email": "Email",
+    "directions": "Get Directions",
+    "location1": "Main Branch",
+    "location1Address": "Preah Sisowath High School, Phnom Penh",
+    "location2": "Second Branch",
+    "location2Address": "Hero Sports (Chomkar Doung), Prey Sa, Phnom Penh",
+    "phone": "+855 16 405 993",
+    "phone2": "+855 98 252 152",
+    "email": "goldenlionfootballschool@gmail.com",
+    "telegram": "@T_sivmey | @leangsim_3",
+    "followUs": "Follow Us",
+    "contactForm": "Quick Contact",
+    "name": "Your Name",
+    "message": "Message",
+    "send": "Send"
+  },
+  "registration": {
+    "title": "Student Registration",
+    "subtitle": "Join the Golden Lion family and start your journey to excellence",
+    "parentInfo": "Parent Information",
+    "parentName": "Parent/Guardian Name",
+    "email": "Email Address",
+    "phone": "Phone Number",
+    "telegram": "Telegram (Optional)",
+    "studentInfo": "Student Information",
+    "studentName": "Student Name",
+    "studentAge": "Student Age (4-18)",
+    "preferredProgram": "Preferred Program",
+    "selectProgram": "Select a program",
+    "additionalNotes": "Additional Notes (Optional)",
+    "registerNow": "Register Now",
+    "success": "Registration successful!",
+    "error": "Registration failed. Please try again.",
+    "required": "This field is required"
+  },
+  "login": {
+    "title": "GLFA Admin",
+    "subtitle": "Sign in to manage registrations",
+    "loginTab": "Login",
+    "signupTab": "Sign Up",
+    "email": "Email",
+    "password": "Password",
+    "confirmPassword": "Confirm Password",
+    "signIn": "Sign In",
+    "createAccount": "Create Account",
+    "forgotPassword": "Forgot Password?",
+    "noAccount": "Don't have an account?",
+    "haveAccount": "Already have an account?",
+    "signUp": "Sign Up",
+    "loginError": "Login failed. Please check your credentials.",
+    "signupError": "Sign up failed. Please try again.",
+    "logout": "Logout"
+  },
+  "common": {
+    "back": "Back",
+    "close": "Close",
+    "save": "Save",
+    "cancel": "Cancel",
+    "delete": "Delete",
+    "edit": "Edit",
+    "loading": "Loading...",
+    "error": "An error occurred",
+    "tryAgain": "Try Again",
+    "noData": "No data available",
+    "language": "Language",
+    "darkMode": "Dark Mode",
+    "lightMode": "Light Mode",
+    "settings": "Settings",
+    "about": "About",
+    "contact": "Contact",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service"
+  }
+}
